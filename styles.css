@@ -3,10 +3,7 @@ a {
   background-color: orange;
   color: white;
 }
-* {
-  background-color: teal;
-  margin: 0px;
-}
+
 .not-a-link {
   color: yellow;
 }
@@ -17,6 +14,21 @@ li {
   color: pink;
 
 }
-header {
+header:hover {
   background-color: rebeccapurple;
+}
+
+button {
+  height: 30px;
+  width:200px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+footer {
+  height: 350px;
+  background-image: url("https://www.biography.com/.image/t_share/MTIwNjA4NjMzNzYwMjg2MjIw/nicolas-cage-9234498-1-402.jpg");
+  background-size: 80%;
+  background-repeat: no-repeat;
+  background-position: center;
 }
