@@ -1,0 +1,22 @@
+a {
+  text-decoration: none;
+  background-color: orange;
+  color: white;
+}
+* {
+  background-color: teal;
+  margin: 0px;
+}
+.not-a-link {
+  color: yellow;
+}
+#heading-five {
+  color: silver;
+}
+li {
+  color: pink;
+
+}
+header {
+  background-color: rebeccapurple;
+}
